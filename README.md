@@ -9,7 +9,7 @@
 
 # GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+A website for the quick navigation of the dissemination actions and the developed software of the "_RecHumS_" (Recreating the Human Skeleton) project, funded by the H.F.R.I..
 
 </header>
 
