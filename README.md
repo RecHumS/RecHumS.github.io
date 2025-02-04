@@ -7,8 +7,6 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
-
 A website for the quick navigation of the dissemination actions and the developed software of the "_RecHumS_" (Recreating the Human Skeleton) project, funded by the H.F.R.I..
 
 </header>
