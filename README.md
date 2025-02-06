@@ -9,9 +9,10 @@
 
 A website for the quick navigation of the dissemination actions and the developed software of the "RecHumS" (Recreating the Human Skeleton) project. The project was funded by the Hellenic Foundation for Research & Innovation (H.F.R.I.) under the “2nd Call for H.F.R.I. Research Projects to support Postdoctoral Researchers” (Project Number: 1042 – Reconstructing a Human Skeleton: Sorting Human Skeletal Elements from Mass Disasters).
 
+![Screenshot_1](https://github.com/user-attachments/assets/e94f37c1-e3d5-48a0-b55d-51be9c91c8cc)
+
 </header>
 
-![hfri-elidek](https://github.com/user-attachments/assets/ad02a7d3-75fb-47b0-b48f-23f15d8c0900)
 
 <!--
   <<< Author notes: Step 4 >>>
