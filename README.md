@@ -18,44 +18,38 @@ A website for the quick navigation of the dissemination actions and the develope
   Historic note: previous version checked the file path. Previous version checked the front matter formatting.
 -->
 
-## COMMUNICATION AND DISSEMINATION ACTIVITIES
+## Communication and dissemination activities
 
-One of the main goals of the "_RecHumS_" project was the communication of its results and developements to a wider audience, such as undergraduate students and professionals in related fields, such as archaeology and forensics. This was achieved by publishing the results in peer-reviewed scientific journals, participating in national and international conferences, and organizing seminars for the undergraduate students. A summary of those activities is presented below.
+One of the main goals of the "_RecHumS_" project was the communication of its results and developements to a wider audience, such as undergraduate students and professionals in related fields, such as archaeology and forensics. This was achieved by publishing the results in peer-reviewed scientific journals, participating in national and international conferences, and organizing seminars for the undergraduate students. An index for those activities is presented below.
 
-GitHub Pages uses Jekyll. In Jekyll, we can create a blog by using specially named files and frontmatter. The files must be named `_posts/YYYY-MM-DD-title.md`. You must also include `title` and `date` in your frontmatter.
+### Publications in peer-reviewed scientific journals:
 
-**What is _frontmatter_?**: The syntax Jekyll files use is called YAML frontmatter. It goes at the top of your file and looks something like this:
+1. “Paving new ways in forensic contexts with virtual osteology applications: csg-toolkit – a 3D osteology package for GNU Octave” in “Annals of 3D Printed Medicine” ([here](https://doi.org/10.1016/j.stlm.2022.100094))
+2. “Evaluating cross-sectional geometry-based methodologies on an archaeological and historical sample” in “Internation Journal of Oseoarchaeology” ([here](https://doi.org/10.1002/oa.3359))
+3. “Sex estimation through the lens off cross-sectional geometric properties of the ulna” in “Forensic Science Reports”, which was accepted in November 27, 2024 (_currently in print_)
 
-```yml
----
-title: "Welcome to my blog"
-date: 2019-01-20
----
-```
+### Participation in national and international conferences:
 
-For more information about configuring front matter, see the [Jekyll frontmatter documentation](https://jekyllrb.com/docs/frontmatter/).
+1. “Sex Estimation by Ulna utilizing 3D methodologies”, 42nd Annual Conference of the Hellenic Society for Biological Sciences, Thessaloniki, Greece, on the 18-20th of May, 2023 ([Conference site](https://www.eebe.gr/conference2023/))
+2. “Sorting of archaeological skeletal material utilizing their geometric morphometric properties”, 43rd Annual Conference of the Hellenic Society for Biological Sciences, Alexandroupoli, Greece, on the 23-25th of May, 2024 ([Conference site](https://www.eebe.gr/conference2024/))
+3. “Sorting of archaeological skeletal material utilizing their geometric morphometric properties”, 4th International Caparica Conference in Translation Forensics”, on the 20-24th of October, 2024 ([Conference site](www.forensics2024.com))
 
-### :keyboard: Activity: Create a blog post
+### Organization of seminars:
 
-1. Browse to the `my-pages` branch.
-1. Click the `Add file` dropdown menu and then on `Create new file`.
-1. Name the file `_posts/YYYY-MM-DD-title.md`.
-1. Replace the `YYYY-MM-DD` with today's date, and change the `title` of your first blog post if you'd like.
-   > If you do edit the title, make sure there are hyphens between your words.
-   > If your blog post date doesn't follow the correct date convention, you'll receive an error and your site won't build. For more information, see "[Page build failed: Invalid post date](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/troubleshooting-jekyll-build-errors-for-github-pages-sites)".
-1. Type the following content at the top of your blog post:
-   ```yaml
-   ---
-   title: "YOUR-TITLE"
-   date: YYYY-MM-DD
-   ---
-   ```
-1. Replace `YOUR-TITLE` with the title for your blog post.
-1. Replace `YYYY-MM-DD` with today's date.
-1. Type a quick draft of your blog post. Remember, you can always edit it later.
-1. Commit your changes to your branch.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+The seminars were titled " " and were organized and conducted in association with the [Museum of Zoology of the National and Kapodistrian University of Athens](https://zoolmuseum.biol.uoa.gr/), for biology, geology, and archeology undergraduate students. The seminars were annual and were conducted on:
+1. on 24/02/2023 ([here](https://zoolmuseum.biol.uoa.gr/education/%cf%83%ce%b5%ce%bc%ce%b9%ce%bd%ce%ac%cf%81%ce%b9%ce%bf%cf%81%ce%af%cf%87%ce%bd%ce%bf%ce%bd%cf%84%ce%b1%cf%82-%cf%86%cf%89%cf%82-%cf%83%cf%84%ce%bf-%ce%bc%cf%85%cf%83%cf%84%ce%ae%cf%81%ce%b9/))
+2. on 22/04/2024 ([here](https://zoolmuseum.biol.uoa.gr/education/%cf%83%ce%b5%ce%bc%ce%b9%ce%bd%ce%ac%cf%81%ce%b9%ce%bf-%cf%84%ce%b1%ce%be%ce%b9%ce%bd%cf%8c%ce%bc%ce%b7%cf%83%ce%b7-%ce%bf%cf%83%cf%84%cf%8e%ce%bd-%cf%83%ce%b5-%ce%bf%ce%bc%ce%b1%ce%b4%ce%b9/)))
 
+
+## Developed software
+
+Under the "_RecHumS_" project, a number of software for osteological analysis was developed. This included a tool for the manipulation of 3D skeletal elements and the subsequent extraction of cross-sectional geometric features from the long bones, such as femur, tibia, and humerus, as well as functions for the sorting of skeletal elements. A brief summary of the developed software and hyperlinks to their dedicated Github repositories is provided below.
+
+1. [csg-toolkit](https://github.com/pr0m1th3as/csg-toolkit): a dedicated tool for osteological analysis and the exctraction of cross-sectional geometric . The `_csg-toolkit_` has been integrated as a GNU Octave package in [GNU Octave Forge](https://gnu-octave.github.io/packages/csg-toolkit/)
+2. [sorting of bilateral elements](https://github.com/pr0m1th3as/osteometric-sorting): a GNU Octave programming language function for the osteometric sorting of bilateral long bones, based on cross-sectional geometric properties of 3D models. Supports femur, tibia, humerus, and ulna 3D bone models.
+3. [sorting of upper and lower epiphyses fragmentes](https://github.com/NGaroufi/epiphyses_sorting-function): an R programming language function for the sorting of upper and lower epiphyses fragments of long bones. The function utilizes the cross-sectional geometric properties of the femur, tibia, and humerus for the calculation of the least distant pair.
+4. [sorting of different long bones](https://github.com/NGaroufi/different_bones_sorting-function): an R programming language function for the sorting of different long bones. The current version of the function can determine the possible matches between (a) femur-tibia bones, (b) femur-humerus bones, and (c) tibia-humerus bones.
+   
 <footer>
 
 <!--
@@ -64,6 +58,8 @@ For more information about configuring front matter, see the [Jekyll frontmatter
 -->
 
 ---
+
+The "_RecHumS_" project was funded by the Hellenic Foundation for Research & Innovation (H.F.R.I.) under the “2nd Call for H.F.R.I. Research Projects to support Postdoctoral Researchers” (Project Number: 1042 – Reconstructing a Human Skeleton: Sorting Human Skeletal Elements from Mass Disasters).
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
