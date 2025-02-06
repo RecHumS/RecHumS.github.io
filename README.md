@@ -18,9 +18,9 @@ A website for the quick navigation of the dissemination actions and the develope
   Historic note: previous version checked the file path. Previous version checked the front matter formatting.
 -->
 
-## Step 4: Create a blog post
+## COMMUNICATION AND DISSEMINATION ACTIVITIES
 
-_Your home page is looking great! :cowboy_hat_face:_
+One of the main goals of the "_RecHumS_" project was the communication of its results and developements to a wider audience, such as undergraduate students and professionals in related fields, such as archaeology and forensics. This was achieved by publishing the results in peer-reviewed scientific journals, participating in national and international conferences, and organizing seminars for the undergraduate students. A summary of those activities is presented below.
 
 GitHub Pages uses Jekyll. In Jekyll, we can create a blog by using specially named files and frontmatter. The files must be named `_posts/YYYY-MM-DD-title.md`. You must also include `title` and `date` in your frontmatter.
 
