@@ -52,10 +52,6 @@ Under the "_RecHumS_" project, a number of software for osteological analysis wa
 3. [sorting of upper and lower epiphyses fragmentes](https://github.com/NGaroufi/epiphyses_sorting-function): an R programming language function for the sorting of upper and lower epiphyses fragments of long bones. The function utilizes the cross-sectional geometric properties of the femur, tibia, and humerus for the calculation of the least distant pair.
 4. [sorting of different long bones](https://github.com/NGaroufi/different_bones_sorting-function): an R programming language function for the sorting of different long bones. The current version of the function can determine the possible matches between (a) femur-tibia bones, (b) femur-humerus bones, and (c) tibia-humerus bones.
    
-<footer>
-
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
