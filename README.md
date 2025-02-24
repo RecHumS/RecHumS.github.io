@@ -40,7 +40,7 @@ One of the main goals of the "_RecHumS_" project was the communication of its re
 
 The seminars were titled " " and were organized and conducted in association with the [Museum of Zoology of the National and Kapodistrian University of Athens](https://zoolmuseum.biol.uoa.gr/), for biology, geology, and archeology undergraduate students. The seminars were annual and were conducted on:
 1. on 24/02/2023 ([here](https://zoolmuseum.biol.uoa.gr/education/%cf%83%ce%b5%ce%bc%ce%b9%ce%bd%ce%ac%cf%81%ce%b9%ce%bf%cf%81%ce%af%cf%87%ce%bd%ce%bf%ce%bd%cf%84%ce%b1%cf%82-%cf%86%cf%89%cf%82-%cf%83%cf%84%ce%bf-%ce%bc%cf%85%cf%83%cf%84%ce%ae%cf%81%ce%b9/))
-2. on 22/04/2024 ([here](https://zoolmuseum.biol.uoa.gr/education/%cf%83%ce%b5%ce%bc%ce%b9%ce%bd%ce%ac%cf%81%ce%b9%ce%bf-%cf%84%ce%b1%ce%be%ce%b9%ce%bd%cf%8c%ce%bc%ce%b7%cf%83%ce%b7-%ce%bf%cf%83%cf%84%cf%8e%ce%bd-%cf%83%ce%b5-%ce%bf%ce%bc%ce%b1%ce%b4%ce%b9/)))
+2. on 22/04/2024 ([here](https://zoolmuseum.biol.uoa.gr/education/%cf%83%ce%b5%ce%bc%ce%b9%ce%bd%ce%ac%cf%81%ce%b9%ce%bf-%cf%84%ce%b1%ce%be%ce%b9%ce%bd%cf%8c%ce%bc%ce%b7%cf%83%ce%b7-%ce%bf%cf%83%cf%84%cf%8e%ce%bd-%cf%83%ce%b5-%ce%bf%ce%bc%ce%b1%ce%b4%ce%b9/))
 
 
 ## Developed software
