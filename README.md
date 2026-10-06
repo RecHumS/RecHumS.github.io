@@ -27,8 +27,9 @@ One of the main goals of the "_RecHumS_" project was the communication of its re
 ### Publications in peer-reviewed scientific journals:
 
 1. “Paving new ways in forensic contexts with virtual osteology applications: csg-toolkit – a 3D osteology package for GNU Octave” in “Annals of 3D Printed Medicine” ([here](https://doi.org/10.1016/j.stlm.2022.100094))
-2. “Evaluating cross-sectional geometry-based methodologies on an archaeological and historical sample” in “Internation Journal of Oseoarchaeology” ([here](https://doi.org/10.1002/oa.3359))
-3. “Sex estimation through the lens off cross-sectional geometric properties of the ulna” in “Forensic Sciences Research”, which was accepted in November 27, 2024 (_currently in print_)
+2. “Evaluating cross-sectional geometry-based methodologies on an archaeological and historical sample” in “International Journal of Oseoarchaeology” ([here](https://doi.org/10.1002/oa.3359))
+3. “Sex estimation through the lens off cross-sectional geometric properties of the ulna” in “Forensic Sciences Research” ([here](https://pmc.ncbi.nlm.nih.gov/articles/PMC12628314/))
+4. "Sorting of Proximal and Distal Long Bone Fragments Using Diaphyseal Cross-Sectional Geometric Properties" in “International Journal of Oseoarchaeology” ([here](https://onlinelibrary.wiley.com/doi/abs/10.1002/oa.70077))
 
 ### Participation in national and international conferences:
 
